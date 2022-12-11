@@ -1,0 +1,8 @@
+hdidemo.exe: hdidemo.c triangle.obj callafi.obj
+	tcc -G -O -Z hdidemo.c triangle.obj callafi.obj
+
+triangle.obj: triangle.asm
+	tasm /mx triangle.asm
+
+callafi.obj: callafi.asm
+	tasm /mx callafi.asm
