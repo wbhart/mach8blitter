@@ -60,7 +60,7 @@ driver disk distributed with the 8514/A. See
 [http://mail.lipsia.de/~enigma/neu/ibmpc.html](http://mail.lipsia.de/~enigma/neu/ibmpc.html)
 
 You will also need to run hdiload.exe from the
-same disketter before running this program.
+same diskette before running this program.
 
 Enjoy!
 
